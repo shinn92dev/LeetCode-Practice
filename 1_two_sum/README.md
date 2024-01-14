@@ -29,3 +29,10 @@ You can return the answer in any order.
 > Input: nums = [3,3], target = 6
 > 
 > Output: [0,1]
+
+## Solution 1 (`solution_using_nested_loop.py`)
+- This solution passed all the tests in LeetCode
+- However, it showed very slow running time compared to others
+- Need to think about another solution with a better performance
+
+[![001-two-sum-solution1-result.png](https://i.postimg.cc/PJzkxg2p/001-two-sum-solution1-result.png)](https://postimg.cc/XBJP1zM4)
