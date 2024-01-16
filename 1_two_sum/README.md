@@ -36,3 +36,9 @@ You can return the answer in any order.
 - Need to think about another solution with a better performance
 
 [![001-two-sum-solution1-result.png](https://i.postimg.cc/PJzkxg2p/001-two-sum-solution1-result.png)](https://postimg.cc/XBJP1zM4)
+
+## Solution 2 (`solution_using_in_operator.py`
+- Using `in` operator, I solved the problem with just one for loop which led significant improvement compared to the solution 1
+- I think using `dictionary` may boost the runtime, and will try that!
+
+[![001-two-sum-solution-2.png](https://i.postimg.cc/5ywDbj2r/001-two-sum-solution-2.png)](https://postimg.cc/fSR8vzX7)
